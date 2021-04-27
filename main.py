@@ -6,7 +6,7 @@ Created on Tue Apr 27 20:41:47 2021
 """
 
 import phonenumbers
-from testt import number
+from test import number
 
 from phonenumbers import geocoder
 ch_nmber = phonenumbers.parse(number, "CH")
